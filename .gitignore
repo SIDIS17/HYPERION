@@ -1,0 +1,44 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# MATLAB / Simulink
+*.asv
+*.slxc
+slprj/
+
+# Data / outputs
+data/raw/
+data/processed/
+outputs/
+logs/
+*.log
+*.tmp
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Build / packaging
+build/
+dist/
+site/
